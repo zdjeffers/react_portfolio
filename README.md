@@ -5,7 +5,7 @@ Creating a website with responsive elements in react utilizing boostrap componen
 This was a refactor of my existing portfolio to bring over to react. We used several different technologies include React, useEffect, useState, and HashRouter. All photos are linked to the respective deployed site or repository.
 
 ### Here is the final product:
-![ZDJeffers React Portfolio](https://github.com/zdjeffers/Bootstrap_Responsive_Portfolio/blob/main/Assets/Images/Screenshot%202020-12-07%20223713.png)
+![ZDJeffers React Portfolio](https://github.com/zdjeffers/react_portfolio/blob/main/react_portfolio/public/images/react_portfolio.png)
 
 ### Here is the link to the deployed site:
 [ZDJeffers React Portfolio](https://zdjeffers.github.io/react_portfolio/)
