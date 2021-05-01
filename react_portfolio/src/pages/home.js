@@ -61,7 +61,6 @@ function Home() {
                       <li>APIs</li>
                       <li>JSON</li>
                       <li>AJAX</li>
-                      <li>Real Time Cloud Database via Firebase</li>
                     </ol>
                   </Col>
                 </Row>

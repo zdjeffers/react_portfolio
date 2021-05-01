@@ -16,7 +16,7 @@ function Navbar() {
             : "nav-link"
         }
       >
-      <div className="navbar-brand bg-dark text-light pl-3 pr-3" >
+      <div className="navbar-brand bg-light text-dark pl-3 pr-3" >
         Dave Jeffers
       </div>
       </Link>
@@ -33,6 +33,12 @@ function Navbar() {
               className={window.location.pathname === "/projects" ? "nav-link active" : "nav-link"}
             >
               Portfolio
+        </Link>  
+        <Link
+              to="/resume"
+              className={window.location.pathname === "/resume" ? "nav-link active" : "nav-link"}
+            >
+              Resume
         </Link>  
         </div>
       </div>
