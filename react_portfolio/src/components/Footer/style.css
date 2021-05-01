@@ -1,0 +1,19 @@
+/*div height to ensure all the content clears the sticky footer for scrolling*/
+.content-scroll{
+    height: 20px;
+  }
+  
+  /*makes the dark gray line above the footer*/
+  .footer-height{
+    
+    border-top: 5px solid #5c5b5b;
+  }
+  
+  a {
+    padding: 0px 10px ;
+  }
+  
+  .text-center {
+    padding: 5px;
+  
+  }

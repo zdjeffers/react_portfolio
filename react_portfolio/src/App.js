@@ -1,9 +1,10 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./pages/home";
 import Projects from './pages/projects';
 import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
             </Route>
           </Switch>
         </Wrapper>
+        <Footer />
       </div>
     </Router>
   );
