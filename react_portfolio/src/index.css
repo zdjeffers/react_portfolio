@@ -28,7 +28,7 @@ body {
 /*sizinig portfolio pic, floating to the left so the text wraps on the left 
 and margin-right adds a little space between the image and the text*/
 .row-content img{
-  width: 200px;
+  width: 400px;
   float: left;
   margin-left: 40px;
 }

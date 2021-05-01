@@ -6,7 +6,7 @@ function Home() {
     <Container fluid>
       <Row>
         <Col size="md-8">
-          <div className="col-main">
+          <div className="col-main align-center">
             <h1 className="index-h1"> About Me </h1>
             <div className="row row-content">
               <img src="/images/mexico_portrait.jpg" alt="Dave Jeffers" />
