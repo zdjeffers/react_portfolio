@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "/images/dayrec_members_page.png",
+        "image": "./images/dayrec_members_page.png",
         "imageLink": "https://dayrec.herokuapp.com/",
         "name": "DAYREC",
         "description": "This group project to create an interactive application that allowed students to guess how many times our instructor missed either recording or sharing their screen",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "image": "/images/BITrateImage.png",
+        "image": "./images/BITrateImage.png",
         "imageLink": "https://devontehillman.github.io/Bitcoin-Curreny-Converter/",
         "name": "BITRate",
         "description": "This was our first group project, which made the most of crypto currency and allowed users from around the world to convert bitcoin into their local currency",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "image": "/images/employee_directory.gif",
+        "image": "./images/employee_directory.gif",
         "imageLink": "https://zdjeffers.github.io/Employee_directory/",
         "name": "Employee Directory",
         "description": "This app was used to generate a contact list using a random person API, and allowed the user to sort by exact name, or order the list in ascending or descending order.",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "image": "/images/budget_tracking.png",
+        "image": "./images/budget_tracking.png",
         "imageLink": "https://zdjeffers.github.io/Budget_Tracker/",
         "name": "Budget Tracker",
         "description": "This budget tracker allowed the user to load in transactions offline, then automatically updated once the user reconnected to an internet connection.",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "image": "/images/workout_tracking.png",
+        "image": "./images/workout_tracking.png",
         "imageLink": "https://zdjeffers.github.io/Workout_Tracker/",
         "name": "Workout Tracker",
         "description": "This workout tracker allowed users to enter in what workout they had, and utilized chart.js to give statistics back to the user on their exercises.",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "image": "/images/daily-scheduler.png",
+        "image": "./images/daily-scheduler.png",
         "imageLink": "https://zdjeffers.github.io/Daily-Planner/Develop/index.html",
         "name": "Daily Scheduler",
         "description": "This workday scheduler would allow users to enter in activities for their schedule. The times would automatically update and not allow users to post more once it was past the time.",

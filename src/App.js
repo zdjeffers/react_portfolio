@@ -5,7 +5,6 @@ import Projects from './pages/projects';
 import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
 import Footer from "./components/Footer"
-import Resume from "./pages/resume";
 
 function App() {
   return (
@@ -22,9 +21,6 @@ function App() {
             </Route>
             <Route exact path={["/projects"]}>
               <Projects />
-            </Route>
-            <Route exact path={["/resume"]}>
-              <Resume />
             </Route>
           </Switch>
         </Wrapper>

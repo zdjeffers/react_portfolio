@@ -9,7 +9,7 @@ function Home() {
           <div className="col-main align-center">
             <h1 className="index-h1"> About Me </h1>
             <div className="row row-content">
-              <img src="/images/mexico_portrait.jpg" alt="Dave Jeffers" />
+              <img src="./images/mexico_portrait.jpg" alt="Dave Jeffers" />
               <div className="content-text">
                 <p>
                   Hello, my name is Dave Jeffers; I'm currently the Engineering

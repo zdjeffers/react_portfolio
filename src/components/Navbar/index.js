@@ -34,12 +34,10 @@ function Navbar() {
             >
               Portfolio
         </Link>  
-        <Link
-              to="/resume"
-              className={window.location.pathname === "/resume" ? "nav-link active" : "nav-link"}
-            >
-              Resume
-        </Link>  
+        <a href="./images/ZDJ_resume.pdf" alt="Dave's Resume" className="nav-link">
+        Resume
+        </a>
+ 
         </div>
       </div>
     </nav>
